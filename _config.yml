@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giovanni Jana"
   avatar           : "profile.png"
-  bio              : "M.S. student at the University of Texas at Austin studying computer architecture"
+  bio              : "Masters student at the University of Texas at Austin studying computer architecture"
   location         : "Austin, TX"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/giovanni-jana"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
