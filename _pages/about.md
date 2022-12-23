@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Giovanni Jana, and I am a masters student in the [Chandra Family Department of Electrial and Computer Engineering](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am in the Architecture, Computer Systems, and Embedded Systems track. My area of interest is computer architecture, specifically performance modeling and high performance design. Currently I work as a GRA (Graduate Research Assistant) at [ARL:UT] (https://www.arlut.utexas.edu/) developing high frequency sonar systems for underwater communications.    
+My name is Giovanni Jana, and I am a masters student in the [Chandra Family Department of Electrial and Computer Engineering](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am in the Architecture, Computer Systems, and Embedded Systems track. My area of interest is computer architecture, specifically performance modeling and high performance design. Currently I work as a GRA (Graduate Research Assistant) at [ARL:UT](https://www.arlut.utexas.edu/) developing high frequency sonar systems for underwater communications.    
 
 Before Graduate School
 ======
