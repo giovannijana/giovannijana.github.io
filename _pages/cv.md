@@ -47,33 +47,34 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware Design
+  * Verilog
+  * Xilinx/Altera FPGA Development Tools
+  * Performance Counters
+  * Cadence Virtuoso
+* Programming Languages
+  * C
+  * Python
+  * C++
+  * SQL
+* General Software
+  * Visual Studio
+  * Version Control
+  * Linux
+  * MS Office Suite
+  * SQL Server Management Studio
 
-<!---
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Approximation without Retraining in Neural Networks (2022)
+  * Worked with a peer to advance existing research on approximation in neural networks by adding support for approximate adder usage in the convolutional layers of ResNet-8
+  * Explored design space consisting of combinations of different approximate adders and multipliers using the NSGA III genetic algorithm to find solutions along a Pareto front
+
+* BioLock (2021)
+  * Integrated fingerprint authentication with logic locking to create access control of circuit functionality using preexisting hardware on a field programmable gate array (FPGA)
+  * Hardware demonstration presented at [Hardware Oriented Security and Trust 2022](http://www.hostsymposium.org/host2022/hwdemo2.php) conference
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
---->
+* Alumni, Marketing, and PR coordinator for [Camp Kesem](https://www.kesem.org/) USF (2020)
+
