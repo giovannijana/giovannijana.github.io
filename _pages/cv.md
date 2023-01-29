@@ -53,6 +53,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
 <!---
 Publications
 ======
@@ -75,4 +76,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
+--->
