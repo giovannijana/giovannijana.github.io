@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, University of South Florida, 2021
 * M.S.E. in Electrical and Computer Engineering, University of Texas at Austin, 2024 (expected)
   * Focus in performance measurement and modeling for high performance computer architecture
+* B.S. in Computer Engineering, University of South Florida, 2021
 
 Work Experience
 ======
