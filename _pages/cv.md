@@ -74,7 +74,7 @@ Projects
   * Integrated fingerprint authentication with logic locking to create access control of circuit functionality using preexisting hardware on a field programmable gate array (FPGA)
   * Hardware demonstration presented at [Hardware Oriented Security and Trust 2022](http://www.hostsymposium.org/host2022/hwdemo2.php) conference
 
-Service and leadership
+Service and Leadership
 ======
 * Alumni, Marketing, and PR coordinator for [Camp Kesem](https://www.kesem.org/) USF (2020)
 
